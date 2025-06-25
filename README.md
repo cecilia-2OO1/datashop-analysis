@@ -1,4 +1,4 @@
-# datashop-analysis
+Analyse des commandes DataShop (Janv. 2024 - Mars 2025)
 Présentation
 Ce projet de data analyse a été réalisé à partir d’un jeu de données fourni par l’entreprise DataShop, spécialisée dans le e-commerce (électronique, mode et maison).
 L’objectif principal est d’exploiter les données de commandes pour générer des insights utiles à la prise de décision sur trois axes majeurs :
@@ -46,5 +46,4 @@ matplotlib et seaborn pour les visualisations
 numpy pour quelques agrégations statistiques
 
 Jupyter Notebook comme environnement de travail
-
 
